@@ -1,4 +1,4 @@
-package ru.mianalgorithms;
+package Algorithms.SortAlgorithms;
 
 public class Selection {
     public static void sort(int[] a){

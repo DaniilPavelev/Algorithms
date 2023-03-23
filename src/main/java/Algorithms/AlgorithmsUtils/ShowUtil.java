@@ -1,4 +1,4 @@
-package ru.mianalgorithms.Utils;
+package Algorithms.AlgorithmsUtils;
 
 public class ShowUtil {
     public static void showArrays(int[] a){

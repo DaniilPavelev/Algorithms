@@ -1,7 +1,7 @@
-package ru.mianalgorithms;
+package Algorithms.SortAlgorithms;
 
-import ru.mianalgorithms.Utils.CreateUtil;
-import ru.mianalgorithms.Utils.ShowUtil;
+import Algorithms.AlgorithmsUtils.CreateUtil;
+import Algorithms.AlgorithmsUtils.ShowUtil;
 
 public class Main {
     public static void main(String[] args) {
