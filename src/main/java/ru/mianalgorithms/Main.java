@@ -1,7 +1,7 @@
-package org.example;
+package ru.mianalgorithms;
 
-import org.example.Utils.CreateUtil;
-import org.example.Utils.ShowUtil;
+import ru.mianalgorithms.Utils.CreateUtil;
+import ru.mianalgorithms.Utils.ShowUtil;
 
 public class Main {
     public static void main(String[] args) {

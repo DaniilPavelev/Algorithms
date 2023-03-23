@@ -1,4 +1,4 @@
-package org.example;
+package ru.mianalgorithms;
 
 public class Insertion {
     public static void sort(int[] a){
